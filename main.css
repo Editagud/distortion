@@ -1,0 +1,16 @@
+html{
+    background-color: #FD9080;
+}
+#queue{
+ 
+    height: 10vh;
+    background: #ffcc00;
+    margin: auto;
+    left:0;
+    right:0;
+    display: block;
+   
+}
+svg {
+    max-height: calc(100vh - 20px);
+  }
